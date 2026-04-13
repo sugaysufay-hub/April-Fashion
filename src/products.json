@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Silk Wrap Midi Dress",
+    "price": 245,
+    "type": "own",
+    "category": "Dresses",
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80",
+    "description": "A luxurious silk wrap dress that drapes beautifully. Perfect for evening events or sophisticated day wear.",
+    "details": ["100% Mulberry Silk", "Adjustable waist tie", "Midi length", "Dry clean only"]
+  },
+  {
+    "id": "2",
+    "name": "Cashmere Oversized Sweater",
+    "price": 185,
+    "type": "own",
+    "category": "Knitwear",
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=800&q=80",
+    "description": "Ultra-soft cashmere sweater with a relaxed fit. A timeless staple for your winter wardrobe.",
+    "details": ["100% Grade A Cashmere", "Ribbed cuffs and hem", "Sustainable sourcing", "Hand wash cold"]
+  },
+  {
+    "id": "3",
+    "name": "Tailored Wool Blazer",
+    "price": 320,
+    "type": "own",
+    "category": "Outerwear",
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=800&q=80",
+    "description": "Sharp tailoring meets premium wool blend. This blazer elevates any outfit instantly.",
+    "details": ["Wool & Viscose blend", "Structured shoulders", "Fully lined", "Functional pockets"]
+  },
+  {
+    "id": "4",
+    "name": "High-Waisted Linen Trousers",
+    "price": 145,
+    "type": "own",
+    "category": "Bottoms",
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=800&q=80",
+    "description": "Breathable linen trousers designed for comfort and style. Ideal for warm weather elegance.",
+    "details": ["100% European Linen", "Wide leg silhouette", "Concealed zipper", "Machine washable"]
+  },
+  {
+    "id": "5",
+    "name": "Classic Leather Tote",
+    "price": 210,
+    "type": "own",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80",
+    "description": "Handcrafted leather tote with ample space for all your essentials. Durable and chic.",
+    "details": ["Full-grain leather", "Internal zip pocket", "Reinforced handles", "Dust bag included"]
+  },
+  {
+    "id": "6",
+    "name": "Minimalist Gold Hoops",
+    "price": 85,
+    "type": "own",
+    "category": "Jewelry",
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=80",
+    "description": "Elegant 14k gold-plated hoops. A versatile accessory that complements any look.",
+    "details": ["14k Gold Plated", "Hypoallergenic", "Lightweight design", "Secure clasp"]
+  }
+]
